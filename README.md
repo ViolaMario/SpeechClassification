@@ -6,3 +6,5 @@ Models: EEGNet.py, InceptionEEG.py;
 
 Train and Test models: EEG_Sensor_Classification.py;
 
+Functional Connectivity: FC0408.ipynb.
+
