@@ -1,7 +1,5 @@
 import torch.nn as nn
 
-
-
 class EEGNet(nn.Module):
     def __init__(self, n_classes=30, channels=64, samples=128*5,
                  dropoutRate=0.5, kernelLength=64, kernelLength2=16,
